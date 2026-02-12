@@ -12,7 +12,7 @@ Nota: No es un PKG instalable con Package Installer. Esta es una utilidad ligera
 
 ### ✅ Compatibilidad
 
-Funciona en cualquier consolas **PlayStation 5** con Jailbreak.
+Funciona en cualquier consola **PlayStation 5** con Jailbreak.
 
 -----
 
