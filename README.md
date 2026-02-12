@@ -18,7 +18,7 @@ Funciona en cualquier consolas **PlayStation 5** con Jailbreak.
 
 ### Creditos
 
-- UFS2Tool [[acceso a los archivos de la consola vía red](https://github.com/SvenGDK/UFS2Tool)]
+- UFS2Tool [https://github.com/SvenGDK/UFS2Tool]
 - ShadowMount [https://github.com/adel-ailane/ShadowMount]
 - PSFFPKG [https://github.com/sinajet/PSFFPKG]
 
